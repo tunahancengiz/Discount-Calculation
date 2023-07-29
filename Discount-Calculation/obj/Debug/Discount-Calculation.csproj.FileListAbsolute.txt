@@ -1,0 +1,11 @@
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\bin\Debug\Discount-Calculation.exe.config
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\bin\Debug\Discount-Calculation.exe
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\bin\Debug\Discount-Calculation.pdb
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount-Calculation.csproj.AssemblyReference.cache
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount-Calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount_Calculation.Form1.resources
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount_Calculation.Properties.Resources.resources
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount-Calculation.csproj.GenerateResource.cache
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount-Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount-Calculation.exe
+C:\Users\Tuna\Desktop\Udemy Ders\Discount-Calculation\Discount-Calculation\obj\Debug\Discount-Calculation.pdb
